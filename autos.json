@@ -6,6 +6,11 @@
     {
         "estudiante": "Jorge",
         "clase": 7
+    },
+    {
+        "estudiante": "José",
+        "clase": 29
     }
+   
 
 ]
